@@ -1,5 +1,18 @@
-# 💫 About Me:
-Technical Skills and Interests<br>Microservices Architect: Currently working on a large-scale microservices project using GraphQL, Redis, and Kafka.<br>MERN Stack Developer: Involved in developing a new web application using the MERN stack, focusing on frontend development with React.<br>DevOps Enthusiast: Actively contributing to the team's DevOps practices, including CI/CD pipelines and infrastructure as code using Terraform.<br>React Native Developer: Developing a mobile app using React Native, leveraging its cross-platform capabilities.<br>DSA Learner: Continuously working on improving problem-solving skills through daily practice and participating in coding challenges.<br>Personal Interests<br>Anime and Football: Enjoy watching anime and following football matches. Passionate about Japanese culture and sports.<br>Fitness: Prioritize physical and mental well-being through regular workouts and a healthy diet.<br>Competitive Spirit: Enjoy challenges and striving for excellence. Always looking for opportunities to learn and grow.
+## 💫 About Me
+
+I'm a full-stack software engineer with experience in building scalable microservices, event-driven systems, and cloud-native applications. Currently working as an SDE-2, I focus on secure financial APIs, DevOps pipelines, and real-time architectures using Node.js, Kafka, Redis, and GraphQL.
+
+### 🚀 Technical Focus
+- **MERN Stack Developer** – Building modern web apps with MongoDB, Express, React, and Node.js.
+- **Microservices & Event-Driven Systems** – Designing APIs using GraphQL/gRPC, Kafka, and Redis.
+- **DevOps Collaboration** – Handling CI/CD pipelines, QA → Pre-prod → Prod deployments, and infrastructure debugging using Docker, GitHub Actions, and AWS.
+- **Secure & Performant Systems** – Built UPI VAN integrations, document-based dispute handling, and S3-free streaming download services.
+- **Tech Explorer** – Actively learning Go, React Native, and Three.js to expand cross-platform and 3D capabilities.
+
+### 🎯 Personal Interests
+- 📺 **Anime & Football** – Passionate about anime and love following major football leagues.
+- 🏋️‍♂️ **Fitness** – Regular training and focus on physical discipline.
+- 🛠️ **Debugging** – Enjoy solving edge-case browser issues and refining workflows.
 
 
 ## 🌐 Socials:
