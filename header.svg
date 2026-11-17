@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Roshan Sahani, Full-Stack Software Engineer">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FF4D57" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF4D57" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FF4D57" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF4D57" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#FF4D57" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FF4D57" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="280" rx="14" fill="#131313"/>
+  <rect width="1000" height="280" rx="14" fill="url(#grid)"/>
+  <rect width="1000" height="280" rx="14" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="13.5" fill="none" stroke="#FF4D57" stroke-opacity="0.25"/>
+  <g transform="translate(60,52)">
+    <rect width="232" height="30" rx="15" fill="#FF4D57" fill-opacity="0.12" stroke="#FF4D57" stroke-opacity="0.45"/>
+    <circle cx="18" cy="15" r="4.5" fill="#FF4D57">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="18" cy="15" r="4.5" fill="none" stroke="#FF4D57">
+      <animate attributeName="r" values="4.5;12" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="20" font-family="Montserrat, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="1.2" fill="#FFEDEE">OPEN TO NEW ROLES · REMOTE</text>
+  </g>
+  <text x="60" y="150" font-family="Montserrat, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-2" fill="#FFEDEE">Roshan <tspan fill="#FF4D57">Sahani</tspan></text>
+  <text x="62" y="192" font-family="Georgia, 'Libre Baskerville', serif" font-size="24" font-style="italic" fill="#FFEDEE" fill-opacity="0.85">I turn ideas into reliable, scalable systems.</text>
+  <text x="62" y="236" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" fill="#FF8A90">Payments  ·  Real-time  ·  Distributed Systems  ·  Platform</text>
+  <path d="M0 262 H1000" stroke="url(#fade)" stroke-width="2" opacity="0.5"/>
+  <circle r="4" cy="262" fill="#FF4D57">
+    <animate attributeName="cx" values="0;1000" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <g transform="translate(650,150)">
+    <text font-family="Montserrat, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2" fill="#FFEDEE" fill-opacity="0.55">LIVE VIDEO LATENCY</text>
+    <text y="52" font-family="Montserrat, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#FF4D57">410<tspan font-size="18" fill="#FFEDEE" fill-opacity="0.6">ms</tspan><tspan font-size="30" fill="#FFEDEE" fill-opacity="0.6" dx="10">→</tspan><tspan dx="10">&lt;150</tspan><tspan font-size="18" fill="#FFEDEE" fill-opacity="0.6">ms</tspan></text>
+  </g>
+</svg>
