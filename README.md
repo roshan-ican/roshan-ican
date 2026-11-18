@@ -11,11 +11,11 @@ Before this I spent a few years in fintech. I've worked on systems that settle $
 - **[codemap](https://github.com/roshan-ican/codemap)**: a local map of a Git repo in your browser. It shows how files connect and what a branch changed. Go, Svelte.
 - **[Eleven Eleven](https://apps.apple.com/in/app/eleven11-app/id6755789328)**: an iOS and Android app for ESP32 smart lamps. On the App Store. Flutter, Supabase.
 - **[WhatsApp Agent](https://w-agent-eta.vercel.app/)**: an AI agent that answers questions and does small tasks inside WhatsApp.
-- **Binder**: matches manufacturers with businesses that need them. Still in development. Go, React Native.
+- **[Binder](https://github.com/roshan-ican/binder)**: matches manufacturers with businesses that need them. Still in development. Go, React Native.
 - **LOMAH**: scoring for a shooting range with 10 to 20 lanes at once, working offline. Node.js, Socket.IO.
-- **Armory**: a smart locker that checks a face, waits for admin approval and tracks items with ESP32 sensors. Go.
+- **[Armory](https://github.com/roshan-ican/armory)**: a smart locker that checks a face, waits for admin approval and tracks items with ESP32 sensors. Go.
 - **Overseer**: reads alerts from Grafana and Loki and suggests the likely cause.
-- **Android camera control app**: several live camera feeds with joystick control. Kotlin.
+- **[Android camera control app](https://github.com/roshan-ican/cuddly-happiness)**: several live camera feeds with joystick control. Kotlin.
 
 ## What I work with
 
